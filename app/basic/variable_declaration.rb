@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 age = 1
 
 puts(age)

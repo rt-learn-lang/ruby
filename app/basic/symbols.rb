@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # standard form
 sym1 = :name
 puts sym1

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # here document
 str1 = <<IDENTIFIER
 one

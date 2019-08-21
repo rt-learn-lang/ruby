@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 what = 10
 what = 42 if false # what is not touched here.
 p what

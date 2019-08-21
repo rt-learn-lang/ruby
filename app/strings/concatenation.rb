@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 # Using + operator
 str1 = 'Hello' + ' ' + 'World'
