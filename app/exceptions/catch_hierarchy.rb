@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 begin
   1 / 0
 rescue StandardError => errorObject
