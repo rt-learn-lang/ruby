@@ -1,5 +1,5 @@
 #    Process all element in a hash treating the last element differently without
-#    using conditionals.  Since hash do not heave a meaningful order, we will just
+#    using conditionals.  Since hash do not have a meaningful order, we will just
 #      treat a random element, in this case I chose first' as the 'last' element
 
 hash = { a: 1, b: 2, c: 3, d: 4, e: 5 }

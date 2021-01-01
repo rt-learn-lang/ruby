@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def tweet_as(user)
   @user = user
   @tweet = []
